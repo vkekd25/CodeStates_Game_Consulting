@@ -12,8 +12,8 @@
     - 연도별 게임의 트렌드가 있을까
     - 출고량이 높은 게임에 대한 분석 및 시각화 프로세스
 
-- **프로젝트 결과**
-  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/195752347-7c00628f-0e3d-4ef4-bda3-167786e1426e.png" width="300" height = '200'>  
+- **프로젝트 결과**  
+  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/195752347-7c00628f-0e3d-4ef4-bda3-167786e1426e.png" width="400" height = '300'>  
 
 
 - **데이터**
