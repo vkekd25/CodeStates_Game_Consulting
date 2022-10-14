@@ -23,4 +23,9 @@
 - **포트폴리오**
   - 간단한 프로젝트라서 포트폴리오에 포함시키지 않았습니다. 
 
+- **발표영상 링크**    
+![Video Label](http://img.youtube.com/vi/5jN8XVjtuZE/0.jpg) <br>
+(https://youtu.be/5jN8XVjtuZE)
+  
+
 <br><br>
