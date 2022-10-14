@@ -20,7 +20,7 @@
 - **데이터**
   - 케글 Video Game Sales(https://www.kaggle.com/datasets/gregorut/videogamesales) 
 
-- **포트포리오**
+- **포트폴리오**
   - 간단한 프로젝트라서 포트폴리오에 포함시키지 않았습니다. 
 
 <br><br>
