@@ -21,7 +21,7 @@
   - 케글 Video Game Sales(https://www.kaggle.com/datasets/gregorut/videogamesales) 
 
 - **포트폴리오**
-  - 간단한 프로젝트라서 포트폴리오에 포함시키지 않았습니다. 
+https://sweet-wheel-f17.notion.site/Game-Consulting-f1083c9dab6d4dbfacadef12265ea42e 
 
 - **발표영상 링크**    
 ![Video Label](http://img.youtube.com/vi/5jN8XVjtuZE/0.jpg) <br>
