@@ -31,10 +31,7 @@
 https://sweet-wheel-f17.notion.site/Game-Consulting-f1083c9dab6d4dbfacadef12265ea42e 
 
 - **발표영상 링크**    
-<img alt="스크린샷 2022-10-14 오전 11 59 35" src="[https://user-images.githubusercontent.com/101457515/196030882-fa8b090c-bd4d-4b68-a35f-d113f52d0b7e.png](http://img.youtube.com/vi/5jN8XVjtuZE/0.jpg)" width="650" height = '350'>  <br>
+<img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196031096-cfa1d0a8-cef4-462a-a59b-c728181c7053.png" width="650" height = '350'>  <br>
 (https://youtu.be/5jN8XVjtuZE)
-  
-
-
 
 <br><br>
