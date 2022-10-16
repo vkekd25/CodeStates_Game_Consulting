@@ -27,7 +27,7 @@
 - **데이터**
   - 케글 Video Game Sales(https://www.kaggle.com/datasets/gregorut/videogamesales) 
 
-- **포트폴리오**
+- **포트폴리오**  
 https://sweet-wheel-f17.notion.site/Game-Consulting-f1083c9dab6d4dbfacadef12265ea42e 
 
 - **발표영상 링크**    
