@@ -14,13 +14,13 @@
     - 출고량이 높은 게임에 대한 분석 및 시각화 프로세스
 
 - **프로젝트 결과**  
-  - 지역에 따라서 선호하는 게임 장르가 다를까
+  - 지역에 따라서 선호하는 게임 장르가 다를까 <br>
   <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196030821-c68cf840-cd18-4821-b69a-f8d435856da3.png" width="650" height = '350'>  <br>
-  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196030846-cfac5539-15d9-4a21-8a45-4cb33234c84c.png" width="650" height = '350'>  
-  - 연도별 게임의 트렌드가 있을까
-  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196030872-dfc6e08d-fad6-4e4a-b357-0f3b9524eb75.png" width="650" height = '350'>  
-  - 출고량이 높은 게임에 대한 분석 및 시각화 프로세스
-  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196030882-fa8b090c-bd4d-4b68-a35f-d113f52d0b7e.png" width="650" height = '350'>  
+  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196030846-cfac5539-15d9-4a21-8a45-4cb33234c84c.png" width="650" height = '350'>  <br>
+  - 연도별 게임의 트렌드가 있을까 <br>
+  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196030872-dfc6e08d-fad6-4e4a-b357-0f3b9524eb75.png" width="650" height = '350'>  <br>
+  - 출고량이 높은 게임에 대한 분석 및 시각화 프로세스 <br>
+  <img alt="스크린샷 2022-10-14 오전 11 59 35" src="https://user-images.githubusercontent.com/101457515/196030882-fa8b090c-bd4d-4b68-a35f-d113f52d0b7e.png" width="650" height = '350'>  <br>
 
 - **데이터**
   - 케글 Video Game Sales(https://www.kaggle.com/datasets/gregorut/videogamesales) 
